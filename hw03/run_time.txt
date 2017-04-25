@@ -1,0 +1,42 @@
+2 resistors per side
+equivalent resistance: 1000
+v_ne: 0.75
+v_ea: 0.5
+v_sw: 0.25
+time: 0
+
+4 resistors per side
+equivalent resistance: 681.818
+v_ne: 0.7
+v_ea: 0.5
+v_sw: 0.3
+time: 0
+
+10 resistors per side
+equivalent resistance: 376.009
+v_ne: 0.648693
+v_ea: 0.5
+v_sw: 0.351307
+time: 0.03
+
+20 resistors per side
+equivalent resistance: 229.423
+v_ne: 0.622178
+v_ea: 0.5
+v_sw: 0.377822
+time: 1.9
+
+40 resistors per side
+equivalent resistance: 136.043
+v_ne: 0.603088
+v_ea: 0.5
+v_sw: 0.396912
+time: 105.48
+
+50 resistors per side
+equivalent resistance: 114.396
+v_ne: 0.598084
+v_ea: 0.5
+v_sw: 0.401916
+time: 386.83
+

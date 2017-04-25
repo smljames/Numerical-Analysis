@@ -1,0 +1,75 @@
+2 resistors per side
+[ Largest ]
+iter = 30	non-1 lambda = 0.00523607
+time = 0	time/iter = 0
+
+[ smallest ]
+iter = 11	lambda = 0.000763932
+time = 0	time/iter = 0
+
+[ shifted iPwr smallest ]
+iter = 4	lambda = 0.000763932
+time = 0	time/iter = 0
+
+condition number = 6.8541
+
+4 resistors per side
+[ Largest ]
+iter = 38	non-1 lambda = 0.0142445
+time = 0	time/iter = 0
+
+[ smallest ]
+iter = 8	lambda = 0.000390179
+time = 0	time/iter = 0
+
+[ shifted iPwr smallest ]
+iter = 3	lambda = 0.000390179
+time = 0	time/iter = 0
+
+condition number = 36.5077
+
+10 resistors per side
+[ Largest ]
+iter = 189	non-1 lambda = 0.0391639
+time = 0.03125	time/iter = 0.000165344
+
+[ smallest ]
+iter = 5	lambda = 0.000129496
+time = 0.015625	time/iter = 0.003125
+
+[ shifted iPwr smallest ]
+iter = 4	lambda = 0.000129496
+time = 0.015625	time/iter = 0.00390625
+
+condition number = 302.432
+
+20 resistors per side
+[ Largest ]
+iter = 684	non-1 lambda = 0.0795492
+time = 1.60938	time/iter = 0.00235289
+
+[ smallest ]
+iter = 4	lambda = 5.42181e-05
+time = 0.796875	time/iter = 0.199219
+
+[ shifted iPwr smallest ]
+iter = 3	lambda = 5.42182e-05
+time = 0.796875	time/iter = 0.265625
+
+condition number = 1467.21
+
+40 resistors per side
+[ Largest ]
+iter = 2526	non-1 lambda = 0.159765
+time = 84.7969	time/iter = 0.0335696
+
+[ smallest ]
+iter = 4	lambda = 2.27687e-05
+time = 43.4688	time/iter = 10.8672
+
+[ shifted iPwr smallest ]
+iter = 3	lambda = 2.27687e-05
+time = 43.1719	time/iter = 14.3906
+
+condition number = 7016.85
+

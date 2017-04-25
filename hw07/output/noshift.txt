@@ -1,0 +1,72 @@
+m3.dat
+[ dim ]
+3
+[ time ]
+0
+[ iter ]
+20
+[ 3 largest eigenvalues ]
+6.37228	2	0.627719	
+[ 3 smallest eigenvalues ]
+0.627719	2	6.37228	
+
+m4.dat
+[ dim ]
+10
+[ time ]
+0.046875
+[ iter ]
+249
+[ 3 largest eigenvalues ]
+67.8404	20.4317	4.45599	
+[ 3 smallest eigenvalues ]
+0.512543	0.55164	0.629808	
+
+m5.dat
+[ dim ]
+20
+[ time ]
+1.07812
+[ iter ]
+909
+[ 3 largest eigenvalues ]
+270.495	81.2238	17.2352	
+[ 3 smallest eigenvalues ]
+0.503097	0.512479	0.528819	
+
+m6.dat
+[ dim ]
+30
+[ time ]
+7.26562
+[ iter ]
+1942
+[ 3 largest eigenvalues ]
+608.254	182.545	38.5387	
+[ 3 smallest eigenvalues ]
+0.501373	0.505511	0.512543	
+
+m7.dat
+[ dim ]
+40
+[ time ]
+30.6094
+[ iter ]
+3325
+[ 3 largest eigenvalues ]
+1081.12	324.395	68.3641	
+[ 3 smallest eigenvalues ]
+0.500772	0.503093	0.507004	
+
+m8.dat
+[ dim ]
+50
+[ time ]
+97.9688
+[ iter ]
+5041
+[ 3 largest eigenvalues ]
+1689.08	506.773	106.711	
+[ 3 smallest eigenvalues ]
+0.500494	0.501978	0.504468	
+

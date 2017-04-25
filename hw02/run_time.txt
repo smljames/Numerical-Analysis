@@ -1,0 +1,16 @@
+LU decomposition time: 0 s
+forward and backward substitution time: 0 s
+LU decomposition time: 0 s
+forward and backward substitution time: 0 s
+LU decomposition time: 0.02 s
+forward and backward substitution time: 0 s
+LU decomposition time: 0.19 s
+forward and backward substitution time: 0 s
+LU decomposition time: 0.66 s
+forward and backward substitution time: 0.01 s
+LU decomposition time: 5.4 s
+forward and backward substitution time: 0.09 s
+LU decomposition time: 55.86 s
+forward and backward substitution time: 0.46 s
+LU decomposition time: 458.06 s
+forward and backward substitution time: 1.28 s

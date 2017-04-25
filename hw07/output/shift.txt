@@ -1,0 +1,156 @@
+m3.dat
+[ dim ]
+3
+[ time ]
+0.015625
+[ iter ]
+17
+[ 3 largest eigenvalues ]
+6.37228	2	0.627719	
+[ 3 smallest eigenvalues ]
+0.627719	2	6.37228	
+
+m4.dat
+[ dim ]
+10
+[ time ]
+0.015625
+[ iter ]
+35
+[ 3 largest eigenvalues ]
+67.8404	20.4317	4.45599	
+[ 3 smallest eigenvalues ]
+0.512543	0.55164	0.629808	
+
+m5.dat
+[ dim ]
+20
+[ time ]
+0.09375
+[ iter ]
+67
+[ 3 largest eigenvalues ]
+270.495	81.2238	17.2352	
+[ 3 smallest eigenvalues ]
+0.503097	0.512479	0.528819	
+
+m6.dat
+[ dim ]
+30
+[ time ]
+0.40625
+[ iter ]
+100
+[ 3 largest eigenvalues ]
+608.254	182.545	38.5387	
+[ 3 smallest eigenvalues ]
+0.501373	0.505511	0.512543	
+
+m7.dat
+[ dim ]
+40
+[ time ]
+1.20312
+[ iter ]
+133
+[ 3 largest eigenvalues ]
+1081.12	324.395	68.3641	
+[ 3 smallest eigenvalues ]
+0.500772	0.503093	0.507004	
+
+m8.dat
+[ dim ]
+50
+[ time ]
+2.8125
+[ iter ]
+167
+[ 3 largest eigenvalues ]
+1689.08	506.773	106.711	
+[ 3 smallest eigenvalues ]
+0.500494	0.501978	0.504468	
+
+m9.dat
+[ dim ]
+60
+[ time ]
+5.8125
+[ iter ]
+209
+[ 3 largest eigenvalues ]
+2432.15	729.679	153.58	
+[ 3 smallest eigenvalues ]
+0.500343	0.501373	0.503097	
+
+m10.dat
+[ dim ]
+70
+[ time ]
+10.6562
+[ iter ]
+244
+[ 3 largest eigenvalues ]
+3310.32	993.114	208.971	
+[ 3 smallest eigenvalues ]
+0.500252	0.501008	0.502273	
+
+m11.dat
+[ dim ]
+80
+[ time ]
+16.8281
+[ iter ]
+262
+[ 3 largest eigenvalues ]
+4323.6	1297.08	272.883	
+[ 3 smallest eigenvalues ]
+0.500193	0.500772	0.501739	
+
+m12.dat
+[ dim ]
+90
+[ time ]
+27.8281
+[ iter ]
+310
+[ 3 largest eigenvalues ]
+5471.98	1641.57	345.316	
+[ 3 smallest eigenvalues ]
+0.500152	0.50061	0.501373	
+
+m13.dat
+[ dim ]
+100
+[ time ]
+40.0469
+[ iter ]
+326
+[ 3 largest eigenvalues ]
+6755.46	2026.59	426.272	
+[ 3 smallest eigenvalues ]
+0.500123	0.500494	0.501112	
+
+m14.dat
+[ dim ]
+120
+[ time ]
+77.6094
+[ iter ]
+383
+[ 3 largest eigenvalues ]
+9727.73	2918.22	613.747	
+[ 3 smallest eigenvalues ]
+0.500086	0.500343	0.500772	
+
+m15.dat
+[ dim ]
+150
+[ time ]
+191.844
+[ iter ]
+506
+[ 3 largest eigenvalues ]
+15199.4	4559.62	958.873	
+[ 3 smallest eigenvalues ]
+0.500055	0.500219	0.500494	
+
