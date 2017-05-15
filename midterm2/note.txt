@@ -1,0 +1,22 @@
+# all matrix eigenvalues
+1. construct A matrix;
+2. iter = EVqr(A, 1e-09, maxiter);
+3. eig[i] = A[i][i];  eigenvalues are the diagonal components of A
+   eig = sort(eig); eigenvalues from smallest to largest
+
+# determinant of A
+1. given A matrix;
+2. det(A);
+
+# evaluation of a polynomial
+1. construct p vector from high order to low order
+2. f(x) = polyval(p, x)
+
+# interpolations
+1. given XDATA, YDATA
+2. splineM(N, XDATA, YDATA, M);
+3. f(x) = spline(x, N, XDATA, YDATA, M);
+
+# newton's method
+1. define the function in MAT.cpp, fx and fx_
+2. root = newton(x, step, tol, maxiter);
