@@ -58,7 +58,7 @@ int main(int argc, char* argv[])
     VEC M(dim); // moments on each given x
     VEC Y(301); // output of spline interpolation
     splineM(dim, XDATA, YDATA, M); // calculate the moments
-    
+
     for(i=475; i<=775; i++){
          Y[i-475] = spline(i, dim, XDATA, YDATA, M); // spline interpolation
     }
