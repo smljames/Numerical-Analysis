@@ -13,7 +13,7 @@ double V = 1;
 double R = 1;
 double L = 1;
 double C = 1;
-double h = 0.01;
+double h = 0.1;
 
 VEC func(VEC &x, int method);
 
@@ -27,8 +27,7 @@ int main(int argc, char* argv[]){
 
     t = 0;
     while(t <= 10){
-        v = func(v, 2); 
-        cout<<v[2]<<endl;
+        v = func(v, 0); 
         t += h;
     }
 
@@ -38,17 +37,17 @@ int main(int argc, char* argv[]){
 VEC func(VEC &x, int method){
     VEC result(3);
     
-    if(method == 1){
+    if(method == 1){        // Forward Euler Method
         result[0] = x[0] + h*(x[1]-x[2])/L;
         result[1] = -1*result[0]*R + V;
         result[2] = x[2] + h*x[0]/C;
     }
-    else if(method == 2){
+    else if(method == 2){   // Backward Euler Method
         result[0] = (x[0] + h*(V-x[2])/L) / (1+ h*R/L + h*h/(L*C));
         result[1] = -1*result[0]*R + V;
         result[2] = x[2] + h*result[0]/C;
     }
-    else if(method == 3){
+    else if(method == 3){   // Trapezoidal Method
         result[0] = ((1 - h*h/(4*L*C)) * x[0] + h * (V-2*x[2]+x[1]) / (2*L)) \
                     / (1 + h*R/(2*L) + h*h/(4*L*C));
         result[1] = -1*result[0] * R + V;
